@@ -1,0 +1,1101 @@
+[25-May-24 18:58:30 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[25-May-24 18:58:32 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[25-May-24 18:58:32 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[25-May-24 18:58:38 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[25-May-24 18:58:50 - INFO] - Fsecmusic.core.bot - Music Bot Started as ◬𝙁𝙎𝙀𝘾_𝙈𝙐𝙎𝙄𝘾◬ 
+[25-May-24 19:27:18 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[25-May-24 19:27:18 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[25-May-24 19:27:19 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[25-May-24 19:27:19 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[25-May-24 19:27:21 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[25-May-24 19:27:29 - INFO] - Fsecmusic.core.bot - Music Bot Started as ◬𝙁𝙎𝙀𝘾_𝙈𝙐𝙎𝙄𝘾◬ 
+[05-Sep-24 12:34:08 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:34:09 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:34:09 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:34:09 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:34:09 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:34:09 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:34:10 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:34:16 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 12:34:16 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:34:18 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 12:34:18 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 12:34:20 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 12:34:20 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 12:34:31 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 12:36:25 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 12:37:19 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 12:37:19 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 12:37:19 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 12:37:20 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x73c6c8bdb830>
+[05-Sep-24 12:37:20 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x73c6c8b53890>
+[05-Sep-24 12:37:22 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:37:23 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:37:23 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:37:23 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:37:23 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:37:23 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:38:17 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:38:18 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:38:24 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 12:38:25 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:38:26 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 12:38:26 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 12:38:28 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 12:38:28 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 12:38:38 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 12:38:59 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 12:38:59 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 12:38:59 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 12:38:59 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x78056f8950d0>
+[05-Sep-24 12:38:59 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x780577bc05c0>
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:39:02 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:39:18 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:39:19 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:39:19 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:39:19 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:39:19 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:39:19 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:39:30 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:39:31 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:39:31 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:39:31 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:39:31 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:39:31 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:40:28 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:40:29 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:40:29 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:40:29 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:40:29 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:40:39 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:40:39 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:40:40 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:40:40 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:40:40 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:40:40 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:41:00 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:41:43 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:41:43 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:42:07 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:42:07 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:42:25 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:42:25 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:42:37 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:42:37 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:42:48 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:42:48 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:44:43 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:44:56 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:44:57 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:45:03 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 12:45:04 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:45:05 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 12:45:05 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 12:45:07 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 12:45:07 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 12:45:14 - ERROR] - pyrogram.dispatcher - Telegram says: [403 Forbidden] - [403 CHAT_SEND_PLAIN_FORBIDDEN] (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/tools/group.py", line 8, in brah
+    await msg.reply("ᴠᴏɪᴄᴇ ᴄʜᴀᴛ sᴛᴀʀᴛᴇᴅ")
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 970, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/messages/send_message.py", line 126, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 80, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.forbidden_403.Forbidden: Telegram says: [403 Forbidden] - [403 CHAT_SEND_PLAIN_FORBIDDEN] (caused by "messages.SendMessage")
+[05-Sep-24 12:45:17 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 12:49:00 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[05-Sep-24 12:49:16 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[05-Sep-24 12:49:19 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[05-Sep-24 12:49:52 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[05-Sep-24 12:52:01 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 12:52:14 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 12:52:14 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 12:52:14 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 12:52:15 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7d2f033b05f0>
+[05-Sep-24 12:52:15 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7d2f032ffbc0>
+[05-Sep-24 12:52:17 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:52:17 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:52:18 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:52:18 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:52:18 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:52:18 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:52:33 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:52:47 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:53:16 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:53:17 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:53:24 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:53:51 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:53:52 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:53:58 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:54:35 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:54:41 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:55:01 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:55:01 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:55:02 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:55:02 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:55:02 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:55:02 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:55:02 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 12:55:08 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 12:55:09 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 12:56:53 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 12:56:54 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 13:04:34 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 13:04:35 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 13:08:07 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 13:08:08 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 13:08:14 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 13:08:15 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:08:15 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 13:08:15 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 13:08:18 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 13:08:18 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 13:08:30 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 13:08:46 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:09:04 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:09:37 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 13:09:37 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 13:09:37 - ERROR] - asyncio - Task exception was never retrieved
+future: <Task finished name='Task-1225' coro=<Client.handle_updates() done, defined at /home/codespace/.local/lib/python3.12/site-packages/pyrogram/client.py:535> exception=ProgrammingError('Cannot operate on a closed database.')>
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/client.py", line 540, in handle_updates
+    await self.fetch_peers(updates.users),
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/client.py", line 531, in fetch_peers
+    await self.storage.update_peers(parsed_peers)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 129, in update_peers
+    self.conn.executemany(
+sqlite3.ProgrammingError: Cannot operate on a closed database.
+[05-Sep-24 13:09:37 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 13:09:38 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x75649c520620>
+[05-Sep-24 13:09:38 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x75649c46fa70>
+[05-Sep-24 13:32:53 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 13:32:54 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 13:32:54 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 13:32:54 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 13:32:54 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 13:32:54 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 13:32:55 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 13:33:03 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 13:33:03 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:33:05 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 13:33:05 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 13:33:06 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 13:33:06 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 13:33:16 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 13:33:47 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/handlers/handler.py", line 35, in check
+    return await self.filters(client, update)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/filters.py", line 79, in __call__
+    y = await self.other(client, update)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/falcon_ban.py", line 47, in admin_filter_f
+    and await admin_check(message)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/admin_check.py", line 23, in admin_check
+    check_status = await client.get_chat_member(chat_id=chat_id, user_id=user_id)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[05-Sep-24 13:35:27 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:35:27 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:35:28 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:36:29 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:37:07 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[05-Sep-24 13:37:09 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[05-Sep-24 13:37:11 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/misc/filters.py", line 64, in FilterCheckker
+    await SendFilterMessage(
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/filters_func.py", line 16, in SendFilterMessage
+    text = NoteFillings(message, text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/notes_func.py", line 118, in NoteFillings
+    user_id = message.from_user.id
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+[05-Sep-24 13:38:25 - ERROR] - pyrogram.dispatcher - Telegram says: [406 CHANNEL_PRIVATE] - The channel/supergroup is not accessible (caused by "channels.GetFullChannel")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/tools/welcome.py", line 119, in greet_new_member
+    count = await app.get_chat_members_count(chat_id)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_members_count.py", line 61, in get_chat_members_count
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.not_acceptable_406.ChannelPrivate: Telegram says: [406 CHANNEL_PRIVATE] - The channel/supergroup is not accessible (caused by "channels.GetFullChannel")
+[05-Sep-24 13:39:25 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/admins/ban.py", line 107, in ban_command_handler
+    member = await chat.get_member(admin_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/user_and_chats/chat.py", line 818, in get_member
+    return await self._client.get_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[05-Sep-24 13:39:57 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/admins/ban.py", line 107, in ban_command_handler
+    member = await chat.get_member(admin_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/user_and_chats/chat.py", line 818, in get_member
+    return await self._client.get_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[05-Sep-24 13:40:42 - ERROR] - pyrogram.dispatcher - 'NoneType' object has no attribute 'id'
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/misc/filters.py", line 64, in FilterCheckker
+    await SendFilterMessage(
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/filters_func.py", line 16, in SendFilterMessage
+    text = NoteFillings(message, text)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/notes_func.py", line 118, in NoteFillings
+    user_id = message.from_user.id
+             ^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'id'
+[05-Sep-24 13:40:51 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/admins/ban.py", line 107, in ban_command_handler
+    member = await chat.get_member(admin_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/user_and_chats/chat.py", line 818, in get_member
+    return await self._client.get_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[05-Sep-24 13:41:39 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/admins/ban.py", line 107, in ban_command_handler
+    member = await chat.get_member(admin_id)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/user_and_chats/chat.py", line 818, in get_member
+    return await self._client.get_chat_member(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[05-Sep-24 13:43:13 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 13:43:13 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 13:43:13 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 13:43:14 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x798f44339280>
+[05-Sep-24 13:43:14 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x798f23aa3b90>
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[05-Sep-24 13:44:00 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[05-Sep-24 13:44:01 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[05-Sep-24 13:44:07 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[05-Sep-24 13:44:07 - INFO] - apscheduler.scheduler - Scheduler started
+[05-Sep-24 13:44:08 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[05-Sep-24 13:44:08 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[05-Sep-24 13:44:10 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[05-Sep-24 13:44:10 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[05-Sep-24 13:44:20 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[05-Sep-24 13:44:54 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[05-Sep-24 13:44:54 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[05-Sep-24 13:44:54 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[05-Sep-24 13:44:55 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x77260418cce0>
+[05-Sep-24 13:44:55 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7725ec3dfbf0>
+[08-Sep-24 04:57:48 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[08-Sep-24 04:57:50 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[08-Sep-24 04:57:50 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[08-Sep-24 04:57:50 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[08-Sep-24 04:57:50 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[08-Sep-24 04:57:50 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[08-Sep-24 04:57:56 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[08-Sep-24 04:58:05 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Scheduler started
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[08-Sep-24 04:58:08 - INFO] - apscheduler.scheduler - Scheduler started
+[08-Sep-24 04:58:17 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[08-Sep-24 04:58:17 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[08-Sep-24 04:58:18 - WARNING] - asyncio - socket.send() raised exception.
+[08-Sep-24 04:58:22 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[08-Sep-24 04:58:22 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[08-Sep-24 04:58:39 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[08-Sep-24 04:59:20 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 04:59:26 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:02:12 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:02:56 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:03:49 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:04:21 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:04:49 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:06:22 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:06:46 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:08:39 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:11:33 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "messages.ExportChatInvite")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/tools/chatlog.py", line 22, in join_watcher
+    link = await app.export_chat_invite_link(chat.id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/export_chat_invite_link.py", line 58, in export_chat_invite_link
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "messages.ExportChatInvite")
+[08-Sep-24 05:12:41 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[08-Sep-24 05:12:41 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:13:25 - ERROR] - pyrogram.dispatcher - Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 226, in handler_worker
+    if await handler.check(self.client, parsed_update):
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/handlers/handler.py", line 35, in check
+    return await self.filters(client, update)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/filters.py", line 79, in __call__
+    y = await self.other(client, update)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/falcon_ban.py", line 47, in admin_filter_f
+    and await admin_check(message)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/admin_check.py", line 23, in admin_check
+    check_status = await client.get_chat_member(chat_id=chat_id, user_id=user_id)
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+[08-Sep-24 05:18:21 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:18:47 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[08-Sep-24 05:18:48 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:20:35 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:23:52 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[08-Sep-24 05:23:53 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:24:27 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[08-Sep-24 05:24:53 - ERROR] - pyrogram.dispatcher - Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by "messages.SendMessage")
+Traceback (most recent call last):
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/decorators/play.py", line 120, in wrapper
+    get = await app.get_chat_member(chat_id, userbot.id)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 80, in get_chat_member
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.ChatAdminRequired: Telegram says: [400 CHAT_ADMIN_REQUIRED] - The method requires chat admin privileges (caused by "channels.GetParticipant")
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/utils/decorators/play.py", line 122, in wrapper
+    return await message.reply_text(_["call_1"])
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/types/messages_and_media/message.py", line 970, in reply_text
+    return await self._client.send_message(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/messages/send_message.py", line 126, in send_message
+    r = await self.invoke(
+        ^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.forbidden_403.ChatWriteForbidden: Telegram says: [403 CHAT_WRITE_FORBIDDEN] - You don't have rights to send messages in this chat (caused by "messages.SendMessage")
+[08-Sep-24 05:26:02 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 62, in resolve_peer
+    return await self.storage.get_peer_by_id(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 142, in get_peer_by_id
+    raise KeyError(f"ID not found: {peer_id}")
+KeyError: 'ID not found: INDIAN_HACKER_GROUPFALCON_SECURITY'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 71, in resolve_peer
+    int(peer_id)
+ValueError: invalid literal for int() with base 10: 'indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 74, in resolve_peer
+    return await self.storage.get_peer_by_username(peer_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/storage/sqlite_storage.py", line 154, in get_peer_by_username
+    raise KeyError(f"Username not found: {username}")
+KeyError: 'Username not found: indian_hacker_groupfalcon_security'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/mustjoin.py", line 17, in must_join_channel
+    await app.get_chat_member(MUST_JOIN, msg.from_user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/chats/get_chat_member.py", line 55, in get_chat_member
+    chat = await self.resolve_peer(chat_id)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/resolve_peer.py", line 76, in resolve_peer
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UsernameInvalid: Telegram says: [400 USERNAME_INVALID] - The username is invalid (caused by "contacts.ResolveUsername")
+[08-Sep-24 05:28:36 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:31:15 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:32:13 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[08-Sep-24 05:32:13 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:40:28 - ERROR] - pyrogram.dispatcher - Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+Traceback (most recent call last):
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/dispatcher.py", line 240, in handler_worker
+    await handler.callback(self.client, *args)
+  File "/workspaces/CHOCO-MUSIC-API-BOT/Fsecmusic/plugins/bot/approve.py", line 97, in autoapprove
+    await client.approve_chat_join_request(chat_id=chat.id, user_id=user.id)
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/invite_links/approve_chat_join_request.py", line 49, in approve_chat_join_request
+    await self.invoke(
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/methods/advanced/invoke.py", line 79, in invoke
+    r = await self.session.invoke(
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 389, in invoke
+    return await self.send(query, timeout=timeout)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/session/session.py", line 357, in send
+    RPCError.raise_it(result, type(data))
+  File "/home/codespace/.local/lib/python3.12/site-packages/pyrogram/errors/rpc_error.py", line 91, in raise_it
+    raise getattr(
+pyrogram.errors.exceptions.bad_request_400.UserAlreadyParticipant: Telegram says: [400 USER_ALREADY_PARTICIPANT] - The user is already a participant of this chat (caused by "messages.HideChatJoinRequest")
+[08-Sep-24 05:40:29 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:41:13 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 05:43:19 - ERROR] - Fsecmusic.plugins.tools.welcome - cannot open resource
+[08-Sep-24 11:50:53 - INFO] - Fsecmusic.core.mongo - Connecting to your Mongo Database...
+[08-Sep-24 11:50:54 - INFO] - Fsecmusic.core.mongo - Connected to your Mongo Database.
+[08-Sep-24 11:50:55 - INFO] - Fsecmusic.core.dir - Directories Updated.
+[08-Sep-24 11:50:55 - INFO] - Fsecmusic.core.git - Git Client Found [VPS DEPLOYER]
+[08-Sep-24 11:50:55 - INFO] - Fsecmusic.misc - ᴅᴀᴛᴀʙᴀsᴇ ʟᴏᴀᴅᴇᴅ sᴜᴄᴄᴇssғᴜʟʟʏ💗
+[08-Sep-24 11:50:55 - INFO] - Fsecmusic.core.bot - Fsec is on the way...
+[08-Sep-24 11:50:57 - INFO] - Fsecmusic.misc - sᴜᴅᴏ ᴜsᴇʀs ᴅᴏɴᴇ..
+[08-Sep-24 11:51:04 - INFO] - Fsecmusic.core.bot - Music Bot Started as Falcon •🪽 
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Added job "start_nightmode" to job store "default"
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Scheduler started
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Added job "close_nightmode" to job store "default"
+[08-Sep-24 11:51:05 - INFO] - apscheduler.scheduler - Scheduler started
+[08-Sep-24 11:51:10 - INFO] - Fsecmusic.plugins - ғsᴇᴄ's ᴍᴏᴅᴜʟᴇs ʟᴏᴀᴅᴇᴅ...
+[08-Sep-24 11:51:10 - INFO] - Fsecmusic.core.userbot - FSEC's Assistant starting...
+[08-Sep-24 11:51:13 - INFO] - Fsecmusic.core.userbot - Assistant Started as <a href=tg://user?id=7292313886>˹ 𝐅ᴧʟᴄσɴ ꭙ 𝐀ꜱꜱɪᴛᴧɴᴛ˼</a>
+[08-Sep-24 11:51:13 - INFO] - Fsecmusic.core.call - Starting PyTgCalls Client...
+
+[08-Sep-24 11:51:28 - INFO] - Fsecmusic - Falcon Security Music Bot Started Successfully..
+[08-Sep-24 11:51:41 - INFO] - root - Stop signal received (SIGINT). Exiting...
+[08-Sep-24 11:51:41 - INFO] - Fsecmusic.core.userbot - FSEC's Stopping Assistants...
+[08-Sep-24 11:51:41 - INFO] - Fsecmusic - sᴛᴏᴘɪɴɢ ғsᴇᴄ ᴍᴜsɪᴄ ʙᴏᴛ ...
+[08-Sep-24 11:51:42 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7b9b405011c0>
+[08-Sep-24 11:51:43 - ERROR] - asyncio - Unclosed client session
+client_session: <aiohttp.client.ClientSession object at 0x7b9b2feb8890>
