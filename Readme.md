@@ -2,6 +2,10 @@
 A Powerful Music Bot For Telegram Users 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=31&duration=4500&pause=1000&color=RED&multiline=true&width=453&height=100&lines=FALCON+SECURITY)
 
+<h2>  ᴅᴇᴘʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ​ 🚀</h2> 
+ᴛʜᴇ ᴇᴀsɪᴇsᴛ ᴡᴀʏ ᴛᴏ ᴅᴇᴘʟᴏʏ  ɢʀᴏᴜᴘ ᴄᴏɴᴛʀᴏʟʟᴇʀ 
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/arter-12/FASCON"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+ ━━━━━━━━━━━━━━━━━━━━━━
 #  FSEC_MUSIC
 
          ╔═══════════════╗
