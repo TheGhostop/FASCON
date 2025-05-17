@@ -13,8 +13,6 @@ from Fsecmusic import app
 from pyrogram.types import Message  # or aiogram.types, etc.
 from typing import Optional
 
-def get_text(message: Message) -> Optional[str]:
-    # your function code here
 @app.on_message(filters.command("audio"))
 def download_song(_, message):
     query = " ".join(message.command[1:])  
