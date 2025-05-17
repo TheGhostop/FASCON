@@ -8,13 +8,12 @@ from youtubesearchpython import SearchVideos
 from youtube_search import YoutubeSearch
 from yt_dlp import YoutubeDL
 from pyrogram import Client, filters
-from pyrogram.types import *
+from pyrogram.types import Message
 from Fsecmusic import app
-from pyrogram.types import Message  # or aiogram.types, etc.
 from typing import Optional
 
 @app.on_message(filters.command("audio"))
-def download_song(_, message):
+def download_song(_, message: Message):
     query = " ".join(message.command[1:])  
     print(query)
     m = message.reply("**🔄 sᴇᴀʀᴄʜɪɴɢ... **")
@@ -64,7 +63,7 @@ def download_song(_, message):
     except Exception as e:
         print(e)
         
-def get_text(message: Message) -> [None, str]:
+def get_text(message: Message) -> Optional[str]:
     text_to_return = message.text
     if message.text is None:
         return None
@@ -101,6 +100,7 @@ async def ytmusic(client, message: Message):
     kekme = f"https://img.youtube.com/vi/{fridayz}/hqdefault.jpg"
     await asyncio.sleep(0.6)
     url = mo
+    import wget  # Ensure wget is imported where it's used
     sedlyf = wget.download(kekme)
     opts = {
         "format": "best",
