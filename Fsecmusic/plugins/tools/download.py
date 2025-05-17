@@ -4,6 +4,7 @@ import os
 import asyncio
 import requests
 import yt_dlp
+import wget
 from youtubesearchpython import SearchVideos
 from youtube_search import YoutubeSearch
 from yt_dlp import YoutubeDL
@@ -12,11 +13,23 @@ from pyrogram.types import Message
 from Fsecmusic import app
 from typing import Optional
 
+def get_text(message: Message) -> Optional[str]:
+    text_to_return = message.text
+    if message.text is None:
+        return None
+    if " " in text_to_return:
+        try:
+            return message.text.split(None, 1)[1]
+        except IndexError:
+            return None
+    else:
+        return None
+
 @app.on_message(filters.command("audio"))
-def download_song(_, message: Message):
+async def download_song(_, message: Message):
     query = " ".join(message.command[1:])  
     print(query)
-    m = message.reply("**🔄 sᴇᴀʀᴄʜɪɴɢ... **")
+    m = await message.reply("**🔄 sᴇᴀʀᴄʜɪɴɢ... **")
     ydl_ops = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -30,10 +43,10 @@ def download_song(_, message: Message):
         views = results[0]["views"]
         channel_name = results[0]["channel"]
     except Exception as e:
-        m.edit("**⚠️ ɴᴏ ʀᴇsᴜʟᴛs ᴡᴇʀᴇ ғᴏᴜɴᴅ. ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ ᴛʏᴘᴇᴅ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ sᴏɴɢ ɴᴀᴍᴇ**")
+        await m.edit("**⚠️ ɴᴏ ʀᴇsᴜʟᴛs ᴡᴇʀᴇ ғᴏᴜɴᴅ. ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ ᴛʏᴘᴇᴅ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ sᴏɴɢ ɴᴀᴍᴇ**")
         print(str(e))
         return
-    m.edit("**📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...**")
+    await m.edit("**📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...**")
     try:
         with yt_dlp.YoutubeDL(ydl_ops) as ydl:
             info_dict = ydl.extract_info(link, download=False)
@@ -43,18 +56,18 @@ def download_song(_, message: Message):
         for i in range(len(dur_arr) - 1, -1, -1):
             dur += int(float(dur_arr[i])) * secmul
             secmul *= 60
-        m.edit("**📤 ᴜᴘʟᴏᴀᴅɪɴɢ...**")
+        await m.edit("**📤 ᴜᴘʟᴏᴀᴅɪɴɢ...**")
 
-        message.reply_audio(
+        await message.reply_audio(
             audio_file,
             thumb=thumb_name,
             title=title,
             caption=f"{title}\nRᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➪{message.from_user.mention}\nVɪᴇᴡs➪ {views}\nCʜᴀɴɴᴇʟ➪ {channel_name}",
             duration=dur
         )
-        m.delete()
+        await m.delete()
     except Exception as e:
-        m.edit(" - An error !!")
+        await m.edit(" - An error !!")
         print(e)
 
     try:
@@ -62,18 +75,6 @@ def download_song(_, message: Message):
         os.remove(thumb_name)
     except Exception as e:
         print(e)
-        
-def get_text(message: Message) -> Optional[str]:
-    text_to_return = message.text
-    if message.text is None:
-        return None
-    if " " in text_to_return:
-        try:
-            return message.text.split(None, 1)[1]
-        except IndexError:
-            return None
-    else:
-        return None
 
 @app.on_message(filters.command(["yt", "video"]))
 async def ytmusic(client, message: Message):
@@ -100,7 +101,6 @@ async def ytmusic(client, message: Message):
     kekme = f"https://img.youtube.com/vi/{fridayz}/hqdefault.jpg"
     await asyncio.sleep(0.6)
     url = mo
-    import wget  # Ensure wget is imported where it's used
     sedlyf = wget.download(kekme)
     opts = {
         "format": "best",
