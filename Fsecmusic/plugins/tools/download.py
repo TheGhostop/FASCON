@@ -4,32 +4,18 @@ import os
 import asyncio
 import requests
 import yt_dlp
-import wget
 from youtubesearchpython import SearchVideos
 from youtube_search import YoutubeSearch
 from yt_dlp import YoutubeDL
 from pyrogram import Client, filters
-from pyrogram.types import Message
+from pyrogram.types import *
 from Fsecmusic import app
-from typing import Optional
-
-def get_text(message: Message) -> Optional[str]:
-    text_to_return = message.text
-    if message.text is None:
-        return None
-    if " " in text_to_return:
-        try:
-            return message.text.split(None, 1)[1]
-        except IndexError:
-            return None
-    else:
-        return None
 
 @app.on_message(filters.command("audio"))
-async def download_song(_, message: Message):
+def download_song(_, message):
     query = " ".join(message.command[1:])  
     print(query)
-    m = await message.reply("**🔄 sᴇᴀʀᴄʜɪɴɢ... **")
+    m = message.reply("**🔄 sᴇᴀʀᴄʜɪɴɢ... **")
     ydl_ops = {"format": "bestaudio[ext=m4a]"}
     try:
         results = YoutubeSearch(query, max_results=1).to_dict()
@@ -43,10 +29,10 @@ async def download_song(_, message: Message):
         views = results[0]["views"]
         channel_name = results[0]["channel"]
     except Exception as e:
-        await m.edit("**⚠️ ɴᴏ ʀᴇsᴜʟᴛs ᴡᴇʀᴇ ғᴏᴜɴᴅ. ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ ᴛʏᴘᴇᴅ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ sᴏɴɢ ɴᴀᴍᴇ**")
+        m.edit("**⚠️ ɴᴏ ʀᴇsᴜʟᴛs ᴡᴇʀᴇ ғᴏᴜɴᴅ. ᴍᴀᴋᴇ sᴜʀᴇ ʏᴏᴜ ᴛʏᴘᴇᴅ ᴛʜᴇ ᴄᴏʀʀᴇᴄᴛ sᴏɴɢ ɴᴀᴍᴇ**")
         print(str(e))
         return
-    await m.edit("**📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...**")
+    m.edit("**📥 ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ...**")
     try:
         with yt_dlp.YoutubeDL(ydl_ops) as ydl:
             info_dict = ydl.extract_info(link, download=False)
@@ -56,18 +42,18 @@ async def download_song(_, message: Message):
         for i in range(len(dur_arr) - 1, -1, -1):
             dur += int(float(dur_arr[i])) * secmul
             secmul *= 60
-        await m.edit("**📤 ᴜᴘʟᴏᴀᴅɪɴɢ...**")
+        m.edit("**📤 ᴜᴘʟᴏᴀᴅɪɴɢ...**")
 
-        await message.reply_audio(
+        message.reply_audio(
             audio_file,
             thumb=thumb_name,
             title=title,
             caption=f"{title}\nRᴇǫᴜᴇsᴛᴇᴅ ʙʏ ➪{message.from_user.mention}\nVɪᴇᴡs➪ {views}\nCʜᴀɴɴᴇʟ➪ {channel_name}",
             duration=dur
         )
-        await m.delete()
+        m.delete()
     except Exception as e:
-        await m.edit(" - An error !!")
+        m.edit(" - An error !!")
         print(e)
 
     try:
@@ -75,6 +61,18 @@ async def download_song(_, message: Message):
         os.remove(thumb_name)
     except Exception as e:
         print(e)
+        
+def get_text(message: Message) -> [None, str]:
+    text_to_return = message.text
+    if message.text is None:
+        return None
+    if " " in text_to_return:
+        try:
+            return message.text.split(None, 1)[1]
+        except IndexError:
+            return None
+    else:
+        return None
 
 @app.on_message(filters.command(["yt", "video"]))
 async def ytmusic(client, message: Message):
